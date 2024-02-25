@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning PyTorch and seeking to upgrade my knowledge about convolutional neural networks (CNNs).
 - 💞️ I’m looking to collaborate on projects that require Python coding, and image processing.
 - 📫 How to reach me: you can reach me via my email address cili.azni@univ-bejaia.dz.
-- 😄 Pronouns: ...
+- 😄 Pronouns: she her
 - ⚡ Fun fact: is it funny that I can't seem to find anything right now? ^^"
 
 <!---
